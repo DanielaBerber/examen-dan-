@@ -1,0 +1,126 @@
+.negro{
+	background-color: black;
+	height: 100px;
+}
+.logo h2{
+	color: gray;
+	font-family: elegance;
+	padding-top: 40px;
+}
+
+.menu li{
+	position: relative;
+	float: left;
+	left: 550px;
+	margin-left: 30px;
+	list-style: none;
+
+}
+.menu a{
+	color: white;
+	text-decoration: none;
+}
+.logot h2{
+	color: white;
+	font-family: arial;
+	padding-top: 40px;
+}
+.img1{
+	margin-top: 90px;
+}
+.parrafo h1{
+	padding-left: 210px;
+	padding-top: 100px;
+	text-align: left;
+	font-family: elegance;
+}
+.parrafo p{
+	margin: 30px 100px;
+	padding-left: 110px;
+	color: gray;
+}
+.boton{
+	position: relative;
+	left: 200px;
+	width: 115px;
+	margin: 30px 40px;
+	padding: 10px;
+	background-color: gray;
+	border-radius: 20px;
+}
+.boton a{
+	color: white;
+	font-family: elengance;
+	padding-left: 10px;
+	text-decoration: none;
+}
+.titulo2{
+	color: gray;
+	margin-top: 80px;
+}
+.img2 {
+	margin-top: 50px;
+}
+.parrafom h2 {
+	color: gray;
+}
+.icon_heart{
+	color: gray;
+	padding-left: 470px;
+}
+.parrafom p{
+	color: gray;
+	margin-top: 30px;
+}
+.boton2 {
+	position: relative;
+	width: 150px;
+	margin: 80px 80px;
+	left: 380px;
+	padding: 8px;
+	background-color: gray;
+	border-radius: 20px;
+
+}
+.boton2 a{
+	color: white;
+	font-family: elegance;
+	padding-left: 30px;
+	text-decoration: none;
+}
+footer{
+	background: black;
+	height: 400px;
+}
+.texto p{
+	position: relative;
+	color: gray;
+	text-align: center;
+	left: 170px;
+	margin-top: -15px;
+}
+.menu2 a{
+	position: relative;
+	color:white;
+	text-decoration: none;
+	left: 800px; 
+	top: -60px;
+}
+.the {
+	color: gray;
+	margin-top: 30px;
+}
+.dos{
+	border:1px dashed gray;
+	border-radius: 15px;
+	padding: 5px;
+}
+.clientes{
+	color: white;	
+}
+.tw{
+	color: white;
+}
+.text2{
+	color: gray;
+}
